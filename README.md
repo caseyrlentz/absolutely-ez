@@ -2,7 +2,7 @@
 [config]: http://i.imgur.com/B4NXmci.png "Config settings"
 [connection]: http://i.imgur.com/veE7UJ6.png "mysql connection"
 ![alt text][logo]
-# ABSOLUTELY/AZ : 
+# ABSOLUTELY/EZ : 
 ### A DEAD SIMPLE VAGRANT BOX FOR EZ CMS
 
 ## Dependancies
