@@ -1,6 +1,6 @@
-[logo]: http://imgur.com/a/zrrFl "ABSOLUTELY / EZ"
-[config]: http://imgur.com/a/DpVga "Config settings"
-[connection]: http://imgur.com/a/JAi5W "mysql connection"
+[logo]: http://i.imgur.com/OP9EOUP.jpg "ABSOLUTELY / EZ"
+[config]: http://i.imgur.com/B4NXmci.png "Config settings"
+[connection]: http://i.imgur.com/veE7UJ6.png "mysql connection"
 ![alt text][logo]
 #ABSOLUTELY/AZ
 ### A DEAD SIMPLE VAGRANT BOX FOR EZ CMS
@@ -18,8 +18,6 @@
 
 ## Connecting to a Database
 1. If you use sequal pro your settings should look like this: ![alt text][connection]
-
-
-## You should now see the EZ platform at `192.168.33.10`. You can also log into the backend of ez via `/ez` using the `username: admin` and `password: publish`.
+2.You should now see the EZ platform at `192.168.33.10`. You can also log into the backend of ez via `/ez` using the `username: admin` and `password: publish`.
 
 #ENJOY!
