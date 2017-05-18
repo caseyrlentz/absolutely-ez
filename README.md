@@ -23,6 +23,7 @@
 2. Clone the ez codebase into the public directory without any parent folder. ` git clone https://github.com/ezsystems/ezplatform.git .`. Please note the space and the period at the end of this commend.
 3. run `composer install` inside of the public directory. This may take a minute to complete and you will most likely be asked to put in some configuration values. The values should be as follows: ![alt text][config]
 4. `vagrant ssh` into the guest box and run `php -d memory_limit=-1 app/console ezplatform:install --env prod clean` to exe the EZ install command. Make sure you're in the correct directory `/var/www/public`.
+*there is a known issue where you are not able to ssh into the guest machine. A work around is to fire up Virtualbox GUI and access the machines terminal
 
 ## Connecting to a Database
 1. If you use sequal pro your settings should look like this: ![alt text][connection]
